@@ -1,10 +1,10 @@
 # Ember::Rest::Rails
 
 Allows you to include
-[Ember-REST](https://github.com/cerebris/ember-rest) in your Rails 3.x
+[Ember-REST](https://github.com/cerebris/ember-rest) in your Rails 3
 Application.
 
-Ember-REST version is from commit [b4abc4e1e213a0be3cb4ecf4aae2b877b21013c7](https://github.com/cerebris/ember-rest/commit/b4abc4e1e213a0be3cb4ecf4aae2b877b21013c7).
+Ember-REST version is 0.1.1 (works with Ember.js 0.9.6).
 
 ## Installation
 
